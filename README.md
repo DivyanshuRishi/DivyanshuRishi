@@ -45,4 +45,4 @@ I'm skilled in Python, JavaScript, React, and MongoDB and am committed to workin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyanshuRishi&show_icons=true&locale=en" alt="divyanshu-dwivedi" /></p>
 
-![snake gif](https://github.com/DivyanshuRishi/DivyanshuRishi/blob/output/github-contribution-grid-snake.svg)
+[snake gif](https://github.com/DivyanshuRishi/DivyanshuRishi/blob/output/github-contribution-grid-snake.svg)
